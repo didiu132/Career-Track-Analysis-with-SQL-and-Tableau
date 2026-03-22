@@ -17,4 +17,4 @@ SELECT
 FROM
 	career_track_student_enrollments s
     LEFT JOIN
-    career_track_info i ON s.track_id = i.track_id
+    career_track_info i ON s.track_id = i.track_id;
