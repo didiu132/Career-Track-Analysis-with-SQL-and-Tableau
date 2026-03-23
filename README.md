@@ -14,6 +14,7 @@ The tracks represent an ordinal sequence of courses that eventually lead to obta
 Data was sourced from this SQL file consisting of two tables with student enrollment info and track info
 
 
+
 ## Tools 
 1. **SQL:** Data preparation and aggregation.
 2. **Tableau:** Data visualization and dashboard creation.
