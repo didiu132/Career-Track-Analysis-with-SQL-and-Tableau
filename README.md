@@ -12,7 +12,7 @@ The tracks represent an ordinal sequence of courses that eventually lead to obta
 
 ## Data
 Data was sourced from this SQL file consisting of two tables with student enrollment info and track info
-
+<img width="534" height="167" alt="Relationship Diagram" src="https://github.com/user-attachments/assets/4a7a077a-b0fd-422e-9be4-e78c42959bca" />
 
 
 ## Tools 
